@@ -25,3 +25,16 @@ Far Future
 - UI
 - Customizability
 - Mobile + wifi support
+
+
+0 - don't consider	
+1 - standard consider
+	- if second thread = 0, then cap.
+2 - tee
+	- third thread is orthogonal
+3 - nipple w/ distance
+	- H = hex
+	- 0 = close
+	- x = inches (decimal)
+4 - valve
+5 - Multiple threads on one end
